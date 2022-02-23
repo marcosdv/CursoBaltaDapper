@@ -21,4 +21,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
-- [Link do Curso](https://balta.io/cursos/fundamentos-orientacao-objetos)
+- [Link do Curso](https://balta.io/cursos/acesso-dados-csharp-net-dapper-sql-server)
